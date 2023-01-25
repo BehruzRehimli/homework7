@@ -1,0 +1,14 @@
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\bin\Debug\netcoreapp3.1\dersde7task.exe
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\bin\Debug\netcoreapp3.1\dersde7task.deps.json
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\bin\Debug\netcoreapp3.1\dersde7task.runtimeconfig.json
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\bin\Debug\netcoreapp3.1\dersde7task.runtimeconfig.dev.json
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\bin\Debug\netcoreapp3.1\dersde7task.dll
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\bin\Debug\netcoreapp3.1\dersde7task.pdb
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\obj\Debug\netcoreapp3.1\dersde7task.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\obj\Debug\netcoreapp3.1\dersde7task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\obj\Debug\netcoreapp3.1\dersde7task.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\obj\Debug\netcoreapp3.1\dersde7task.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\obj\Debug\netcoreapp3.1\dersde7task.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\obj\Debug\netcoreapp3.1\dersde7task.dll
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\obj\Debug\netcoreapp3.1\dersde7task.pdb
+C:\Users\Ziya\Desktop\c#\dersde7task\dersde7task\obj\Debug\netcoreapp3.1\dersde7task.genruntimeconfig.cache

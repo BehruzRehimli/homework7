@@ -1,0 +1,14 @@
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\bin\Debug\netcoreapp3.1\tasklar.exe
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\bin\Debug\netcoreapp3.1\tasklar.deps.json
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\bin\Debug\netcoreapp3.1\tasklar.runtimeconfig.json
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\bin\Debug\netcoreapp3.1\tasklar.runtimeconfig.dev.json
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\bin\Debug\netcoreapp3.1\tasklar.dll
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\bin\Debug\netcoreapp3.1\tasklar.pdb
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\obj\Debug\netcoreapp3.1\tasklar.csproj.AssemblyReference.cache
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\obj\Debug\netcoreapp3.1\tasklar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\obj\Debug\netcoreapp3.1\tasklar.AssemblyInfoInputs.cache
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\obj\Debug\netcoreapp3.1\tasklar.AssemblyInfo.cs
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\obj\Debug\netcoreapp3.1\tasklar.csproj.CoreCompileInputs.cache
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\obj\Debug\netcoreapp3.1\tasklar.dll
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\obj\Debug\netcoreapp3.1\tasklar.pdb
+C:\Users\Ziya\Desktop\c#\dersde7task\tasklar\obj\Debug\netcoreapp3.1\tasklar.genruntimeconfig.cache
